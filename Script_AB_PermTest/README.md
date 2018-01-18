@@ -1,6 +1,6 @@
 # AB_PermTest 
 
-Experimenting with statistical thinking for applying a permutation test to a hypothetical A/B test.  
+Experimenting with statistical thinking for a hypothetical A/B test.  
 
 ## Showcases:  
 A/B testing & permutation testing  
