@@ -1,4 +1,4 @@
-# FinchesStats  
+# AB_PermTest 
 
 Experimenting with statistical thinking for applying a permutation test to a hypothetical A/B test.  
 
