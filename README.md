@@ -1,3 +1,3 @@
-# PythonDemos
+# Python Projects
 
-A folder containing my personal Python demos.
+A folder containing my personal Python projects.
