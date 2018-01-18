@@ -89,6 +89,9 @@ plt.legend(('1975', '2012'), loc='lower right')
 
 # Parameter estimation of mean difference
 
+# Set a seed for reproducible pseudo-random data of bootstraps
+np.random.seed(42)
+
 
 def draw_bs_reps(data, func, size=1):
     """
