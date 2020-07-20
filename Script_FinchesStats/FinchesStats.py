@@ -16,6 +16,7 @@ Dryad data package:
 
 Grant PR, Grant BR (2014) Data from: 40 years of evolution.
 Darwin's finches on Daphne Major Island.
+
 Dryad Digital Repository. https://doi.org/10.5061/dryad.g6g3h
 """
 
